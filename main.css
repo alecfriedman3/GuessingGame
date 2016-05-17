@@ -1,0 +1,30 @@
+body{
+
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+p{
+
+    width: 90%
+    margin-bottom:25px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.play{
+    background-color: red;
+    color:white;
+    float: center;
+}
+.playagain{
+
+    background-color: red;
+    color:white
+}
+.title{
+    color: red;
+    text-decoration: underline;
+    
+}
