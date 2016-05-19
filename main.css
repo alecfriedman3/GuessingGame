@@ -13,13 +13,18 @@ p{
     margin-right:auto;
 }
 
-.play{
+#play{
     background-color: red;
     color:white;
-    float: center;
-}
-.playagain{
 
+}
+#playagain{
+
+    background-color: red;
+    color:white
+}
+#help{
+    
     background-color: red;
     color:white
 }
