@@ -4,7 +4,9 @@ body{
     width: 70%;
     text-align: center;
 }
-
+.display{
+    font-size: 20px
+}
 p{
 
     width: 90%
@@ -32,4 +34,23 @@ p{
     color: red;
     text-decoration: underline;
     
+}
+
+#winner{
+    color: #ff0000;
+    font-size: 50px;
+}
+#prize{
+    color: #ff0000;
+    font-size: 20px
+}
+#gameOver{
+    color: #ff0000;
+    font-size: 20px
+}
+.advice{
+    font-size: 20px;
+}
+.numGuesses{
+    font-size: 20px;
 }
